@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/ProductList",
+    "pages/purchase",
+    "pages/huiyuan",
+    "pages/MemberDetailPage",
+    "pages/Index",
+    "pages/linshi"
+  ]
+}
